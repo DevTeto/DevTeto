@@ -1,6 +1,6 @@
 [<img src="https://github.com/DevTeto/DevTeto/blob/master/resources/hr.gif"/>](https://github.com/DevTeto)
 
-<h1> <img src="https://te.legra.ph/file/8e43d1a66ca355ea0b7a5.jpg" height="90px" width="80px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ᴀɴᴏɴʏᴍᴏᴜs </h1>
+<h1> <img src="https://te.legra.ph/file/8e43d1a66ca355ea0b7a5.jpg" height="90px" width="80px"> 𝗁𝖾𝗒 𝗍𝗁𝖾𝗋𝖾 𝗍𝗁𝗂𝗌 𝗂𝗌 𝗍𝖾𝗍𝗈 </h1>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/DevTeto/count.svg" />
