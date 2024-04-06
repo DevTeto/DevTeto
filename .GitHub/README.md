@@ -9,12 +9,12 @@
 [<img src="https://github.com/DevTeto/DevTeto/blob/master/resources/hr.gif"/>](https://github.com/DevTeto)
 
 <p align="center">
-<img src="https://te.legra.ph/file/9f9f9e906aa1dfdef2e29.jpg">
+<img src="https://telegra.ph/file/d88214dea0c60a7b04f2c.jpg">
 </p>
 
 [<img src="https://raw.githubusercontent.com/DevTeto/DevTeto/master/resources/hr.gif"/>](https://github.com/DevTeto)
 
-<h1> <img src="https://telegra.ph/file/d88214dea0c60a7b04f2c.jpg" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
+<h1> <img src="https://te.legra.ph/file/21e7bb7f0b7b27333a806.jpg" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
 
 ```python3
 class Anonymous():
